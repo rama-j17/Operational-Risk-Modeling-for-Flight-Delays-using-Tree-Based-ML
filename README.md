@@ -48,7 +48,3 @@ We can conclude that Random Forest Classifier and XG- Boost Classifier performed
 - Download the datasets from [here](https://drive.google.com/drive/folders/1HRDxih_6xN0uU2Js3xGF8zp5r_XPSEJc?usp=sharing)
 - Modify the folder path in the preprocess method accordingly
 
-## Collaborators
-[Rhythm Patel](https://github.com/rhythm-patel)      
-[Mohnish Agrawal](https://github.com/Mohnish-Agrawal)
-
