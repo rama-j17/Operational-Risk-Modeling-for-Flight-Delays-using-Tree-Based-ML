@@ -1,4 +1,4 @@
-# Predicting Flight Delays :airplane:
+# Risk Modelling for Flight Delay Prediction
 
 The growth of the aviation sector has made flight delaysmore common across the world.  They cause inconvenience to the travellers and incur monetary losses to the airlines. We analysed the various factors responsible for flight delaysand applied machine learning models such as **Random Forest, XGBoost, Logistic Regression, Decision Tree, NaiveBayes** to predict whether a given flight would be delayed or not.  The **XGBoost Classifier** performed exceptionally well, giving an Accuracy of 0.88 and an AUC of 0.93.
 
