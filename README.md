@@ -34,17 +34,3 @@ We can conclude that Random Forest Classifier and XG- Boost Classifier performed
 
 <img width="439" alt="roc" src="https://user-images.githubusercontent.com/42066451/118357432-ce413080-b597-11eb-8860-e21ca8b6402d.png">
 
-## Usage
-
-### Google Colab
-
-- Open the Notebook.ipynb file on Google Colab
-- Copy [this](https://drive.google.com/drive/folders/1HRDxih_6xN0uU2Js3xGF8zp5r_XPSEJc?usp=sharing) folder to your Google Drive
-- Mount the Google Drive and modify the folder path in the preprocess method accordingly
-
-### Local System
-
-- Install necessary modules : `pip install -r requirements.txt` 
-- Download the datasets from [here](https://drive.google.com/drive/folders/1HRDxih_6xN0uU2Js3xGF8zp5r_XPSEJc?usp=sharing)
-- Modify the folder path in the preprocess method accordingly
-
